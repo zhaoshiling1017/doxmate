@@ -27,10 +27,9 @@
     "expect.js": "*",
     "mocha": "*"
   },
-  "author": "Jackson Tian",
+  "author": "Len Zhao",
   "contributors": [
-    "JacksonTian <shyvo1987@gmail.com> (https://github.com/JacksonTian)",
-    "youxiachai <youxiachai@gmail.com> (https://github.com/youxiachai)"
+    "lenzhao <lenzhao@yahoo.com> (https://github.com/zhaoshiling1017)"
   ],
   "license": "MIT",
   "directories": {
@@ -39,9 +38,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/JacksonTian/doxmate.git"
+    "url": "git://github.com/zhaoshiling1017/doxmate.git"
   },
   "bugs": {
-    "url": "https://github.com/JacksonTian/doxmate/issues"
+    "url": "https://github.com/zhaoshiling1017/doxmate/issues"
   }
 }
