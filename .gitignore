@@ -21,3 +21,4 @@ test/example/wordpress
 test/example/doxmate*
 .DS_Store
 doc/*
+_trial_temp

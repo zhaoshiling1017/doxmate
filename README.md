@@ -1,4 +1,4 @@
-Doxmate 不再为文档而发愁 [![Build Status](https://secure.travis-ci.org/JacksonTian/doxmate.png?branch=master)](http://travis-ci.org/JacksonTian/doxmate)
+Doxmate 不再为文档而发愁 [![Build Status](https://travis-ci.org/zhaoshiling1017/doxmate.svg?branch=master)](https://travis-ci.org/zhaoshiling1017/doxmate)
 ======================
 ## 来源
 过去通常要自己维护API文档，这会是一件比较蛋疼的事情。所幸我们有[dox](https://github.com/visionmedia/dox)，dox可以帮我们解析注解。但是dox不能帮我们任意生成文档。于是就有了doxmate，doxmate基于dox的注解对象，加入模板。在遵循Github和CommonJS的约定后，doxmate可以帮你的模块包快速生成文档。
@@ -15,7 +15,7 @@ $ npm install doxmate -g
 
 ```
 // 签出doxmate项目
-$ git clone git://github.com/JacksonTian/doxmate.git ~/git/doxmate
+$ git clone git://github.com/zhaoshiling1017/doxmate.git ~/git/doxmate
 // 去到项目目录
 $ cd doxmate
 $ doxmate build
@@ -76,7 +76,7 @@ Doxmate将会扫描项目下的README.md和doc目录下的md文件，通过markd
  active   : 21 days
  commits  : 89
  files    : 94
- authors  : 
+ authors  :
     71  Jackson Tian            79.8%
     10  youxiachai              11.2%
      5  Lei Zongmin             5.6%
